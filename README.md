@@ -4,7 +4,7 @@
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/feather/)
 
 ```sh
-gleam add feather@v2
+gleam add feather@v1
 ```
 Add the following fields to your gleam.toml file:
 
